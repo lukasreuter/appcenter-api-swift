@@ -1,0 +1,12 @@
+# DateTimeDownloadReleaseCountsCounts
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**datetime** | **String** | The ISO 8601 datetime. | [optional] 
+**total** | **Int64** |  | [optional] 
+**unique** | **Int64** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

@@ -1,0 +1,14 @@
+name: 
+targets:
+  :
+    type: framework
+    platform: iOS
+    deploymentTarget: "10.0"
+    sources: []
+    info:
+      path: ./Info.plist
+      version: 
+    settings:
+      APPLICATION_EXTENSION_API_ONLY: true
+    scheme: {}
+    

@@ -1,0 +1,14 @@
+# DistributionStore
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **String** | ID identifying a unique distribution store. | 
+**name** | **String** | A name identifying a unique distribution store. | [optional] 
+**type** | **String** | type of the distribution store currently stores type can be intune, googleplay or windows. | [optional] 
+**publishingStatus** | **String** | publishing status of the release in the store. | [optional] 
+**isLatest** | **Bool** | Is the containing release the latest one in this distribution store. | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
