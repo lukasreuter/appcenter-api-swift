@@ -25,7 +25,7 @@ let package = Package(
         .target(
             name: "",
             dependencies: [],
-            path: "/Classes"
+            path: "Classes"
         ),
     ]
 )
